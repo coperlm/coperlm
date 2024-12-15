@@ -11,9 +11,6 @@
 - [my_blog](https://coperlm.github.io/)
 
 
-- 目前手头正在推进的项目：
-  - 制导飞镖
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
 
 <!--
