@@ -12,7 +12,9 @@
   
 - and enjoy participating in Algorithm Contests 🏆
 
-> [my_blog](https://coperlm.github.io/)
+> [my blog](https://coperlm.github.io/)
+
+> [my Codeforces account(which only vp](https://codeforces.com/profile/coperlm)
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
