@@ -12,7 +12,7 @@
   
 - and enjoy participating in Algorithm Contests 🏆
 
-- [my_blog](https://coperlm.github.io/)
+> [my_blog](https://coperlm.github.io/)
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
