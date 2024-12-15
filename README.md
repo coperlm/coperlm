@@ -1,8 +1,8 @@
 <table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=coperlm&count_private=true&show_icons=true&theme=cobalt" width="400"></td></tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coperlm&layout=compact" width="400"></td></tr>
-<tr><td><img src="https://stats.justsong.cn/api/nowcoder?id=962349741" width="400" /></td></tr>
+<tr><td><img src="https://stats.justsong.cn/api/nowcoder?id=962349741" width="300" /></td></tr>
 <tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coperlm" width="400" /></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coperlm&layout=compact" width="400"></td></tr>
 </table>
 
 - 这是一个个人主页
