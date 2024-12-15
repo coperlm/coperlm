@@ -7,7 +7,7 @@
 - 这是一个个人主页
 - 但是我还什么都没写
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm)
+![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
 
 <!--
 **coperlm/coperlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
