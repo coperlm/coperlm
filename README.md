@@ -4,8 +4,11 @@
 <tr><td><img src="https://github-profile-trophy.vercel.app/?username=coperlm" width="400" /></td></tr>
 </table>
 
-- 这是一个个人主页
-- 但是我还什么都没写
+- 网络空间安全专业
+- 目前主要的方向是密码学
+- 学习过一点嵌入式知识
+- 也会打一些算法竞赛
+- [my_blog](https://coperlm.github.io/)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
 
