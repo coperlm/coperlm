@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- I'm coperlm
+- I'm coperlm 😊
 
 - majoring in Cyberspace Security 🛡️
   
