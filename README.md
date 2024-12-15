@@ -4,6 +4,8 @@
 <tr><td><img src="https://github-profile-trophy.vercel.app/?username=coperlm" width="400" /></td></tr>
 </table>
 
+###Hi there 👋
+
 - I am majoring in Cyberspace Security 🛡️
   
 - with a current focus on Cryptography 🔐
@@ -14,7 +16,7 @@
 
 > [my blog](https://coperlm.github.io/)
 
-> [my Codeforces account(which only vp](https://codeforces.com/profile/coperlm)
+> [my Codeforces account(which only vp)](https://codeforces.com/profile/coperlm)
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
