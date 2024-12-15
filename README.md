@@ -4,13 +4,13 @@
 <tr><td><img src="https://github-profile-trophy.vercel.app/?username=coperlm" width="400" /></td></tr>
 </table>
 
-- 网络空间安全专业
+- I am majoring in Cyberspace Security 🛡️
   
-- 目前主要的方向是密码学
+- with a current focus on Cryptography 🔐
   
-- 学习过一点嵌入式知识
+- I have also explored some knowledge in Embedded Systems 🤖
   
-- 也会打一些算法竞赛
+- and enjoy participating in Algorithm Contests 🏆
 
 - [my_blog](https://coperlm.github.io/)
 
