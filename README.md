@@ -11,7 +11,7 @@
   
 - which current focus on Cryptography 🔐
   
-- I have also explored some knowledge in Embedded Systems 🤖
+- I'd also explored some knowledge in Embedded Systems 🤖
 
 - and enjoy participating in Algorithm Contests 🏆
 
