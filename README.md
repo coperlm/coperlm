@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- I'm coperlm <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="70px" />
+- I'm coperlm <img src="<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="cat">" width="70px" />
 
 - majoring in Cyberspace Security 🛡️
   
