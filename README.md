@@ -1,6 +1,6 @@
 <table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=coperlm&count_private=true&show_icons=true&theme=cobalt" width="400"></td></tr>
-<tr><td><img src="https://codeforces-readme-stats.vercel.app/api/card?username=coper_morry" width="400" /></td></tr>
+<tr><td><img src="https://codeforces-readme-stats.vercel.app/api/card?username=coper_morry" width="350" /></td></tr>
 </table>
 
 ### Hi there 👋
