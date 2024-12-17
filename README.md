@@ -21,5 +21,3 @@
 > [my Codeforces account(which only vp)](https://codeforces.com/profile/coperlm) <img src="https://ice.frostsky.com/2024/12/17/e57560daeaa682a94da97d7b5b65cce2.gif" width="50px" />
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
-
-![](https://github-profile-trophy.vercel.app/?username=coperlm)
