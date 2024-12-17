@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I'm coperlm
+- I'm coperlm <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />
 
 - majoring in Cyberspace Security 🛡️
   
