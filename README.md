@@ -1,5 +1,5 @@
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=coperlm&count_private=true&show_icons=true&theme=cobalt" width="400"></td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="400"></td></tr>
 <tr><td><img src="https://stats.justsong.cn/api/nowcoder?id=962349741" width="400" /></td></tr>
 </table>
 
