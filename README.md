@@ -16,7 +16,7 @@
 - and enjoy participating in Algorithm Contests 🏆
 
 
-> [my blog](https://coperlm.github.io/) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" alt="cat">
+> [my blog](https://coperlm.github.io/) <img src="https://ice.frostsky.com/2024/12/17/47c3959e81d29e451de2d5322e53347e.gif" width="40" /><img src="https://ice.frostsky.com/2024/12/17/4d0684d8bebfb184eda06aafebd71a96.gif" width="40" />
 
 > [my Codeforces account(which only vp)](https://codeforces.com/profile/coperlm) <img src="https://ice.frostsky.com/2024/12/17/71b6779180e2d7328f371e566f20625f.gif" width="40px" />
 
