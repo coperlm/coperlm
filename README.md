@@ -20,4 +20,6 @@
 
 > [my Codeforces account](https://codeforces.com/profile/coperlm) <img src="https://ice.frostsky.com/2024/12/17/e57560daeaa682a94da97d7b5b65cce2.gif" width="70px" />
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=coperlm.visitor" style="border-radius:12px;box-shadow:0 2px 4px rgba(0,0,255,0.2)">
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coperlm&theme=react-dark)
