@@ -17,7 +17,7 @@
   <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-ruddy-zeta.vercel.app/api/top-langs?username=coperlm&show_icons=true&locale=en&layout=donut&hide=html&size_weight=0.1&count_weight=0.7&border_radius=20"/>
   <img height="212" alt="coperlm" src="https://readme-stats-ruddy-zeta.vercel.app/api/top-langs?username=coperlm&show_icons=true&locale=en&layout=donut&hide=html&size_weight=0.1&count_weight=0.7&border_radius=20">
 </picture>&nbsp;<picture>
-  <source height="212" media="(prefers-color-scheme: dark)" srcset="https://readme-stats-ruddy-zeta.vercel.app/api?username=coperlm&show_icons=true&locale=en&count_private=true&include_all_commits=true&border_radius=20&show=reviews&theme=dark">
-  <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-ruddy-zeta.vercel.app/api?username=coperlm&show_icons=true&locale=en&count_private=true&include_all_commits=true&border_radius=20&show=reviews"/>
-  <img height="212" alt="coperlm" src="https://readme-stats-ruddy-zeta.vercel.app/api?username=coperlm&show_icons=true&locale=en&count_private=true&include_all_commits=true&border_radius=20&show=reviews">
+  <source height="212" media="(prefers-color-scheme: dark)" srcset="https://readme-stats-ruddy-zeta.vercel.app/api?username=coperlm&show_icons=true&locale=en&count_private=true&border_radius=20&show=reviews&theme=dark">
+  <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-ruddy-zeta.vercel.app/api?username=coperlm&show_icons=true&locale=en&count_private=true&border_radius=20&show=reviews"/>
+  <img height="212" alt="coperlm" src="https://readme-stats-ruddy-zeta.vercel.app/api?username=coperlm&show_icons=true&locale=en&count_private=true&border_radius=20&show=reviews">
 </picture></p>
